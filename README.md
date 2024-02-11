@@ -1,4 +1,4 @@
-# Nlw-experts
+# Nlw-Experts
  Repositório da NLW, aulas desenvolvidas pela Rocketseat.
 
 ## Tecnologias Utilizadas
